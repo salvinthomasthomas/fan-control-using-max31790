@@ -1,0 +1,265 @@
+(footprint "CONN_A-7478-04A_MOL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "22053041 ")
+	(property "Reference" "J2"
+		(at 3.81 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "82069375-01e8-448b-9457-bd4e87b8476a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "22053041"
+		(at 3.81 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b31f0039-ceba-43c6-8b81-f3be5583728b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/22053041?display=pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bffdea3e-7640-48cd-8c48-8f452d28e50d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f60129f2-8dd5-49cc-a98d-f642117e3bdb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.397 2.921)
+		(end -1.397 13.0556)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ef01cb2-af35-4780-be53-f70c70c5ea33")
+	)
+	(fp_line
+		(start -1.397 13.0556)
+		(end 9.017 13.0556)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78bdab1d-67ff-41f5-a937-2983c0d8140f")
+	)
+	(fp_line
+		(start 9.017 2.921)
+		(end -1.397 2.921)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cb1e9673-c38b-46db-827a-960b6b102c13")
+	)
+	(fp_line
+		(start 9.017 13.0556)
+		(end 9.017 2.921)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "861b210b-379a-48b5-92c7-a77ee12298fe")
+	)
+	(fp_circle
+		(center -3.429 0)
+		(end -3.048 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d1ec94ae-f9ce-45d8-874b-0741580fdb16")
+	)
+	(fp_circle
+		(center -3.429 0)
+		(end -3.048 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "f306c65f-bd0d-42dc-9c3f-d027933e4eeb")
+	)
+	(fp_line
+		(start -1.524 -1.0414)
+		(end -1.524 13.1826)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "606d8208-8bfc-4b9a-b397-b8b25fb9c904")
+	)
+	(fp_line
+		(start -1.524 13.1826)
+		(end 9.144 13.1826)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "daadd045-e05b-46e9-a273-925967882812")
+	)
+	(fp_line
+		(start 9.144 -1.0414)
+		(end -1.524 -1.0414)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d16a263b-3a07-4c08-a2f4-fee7dc8eba90")
+	)
+	(fp_line
+		(start 9.144 13.1826)
+		(end 9.144 -1.0414)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75f494f1-2fcc-4ad7-98f1-7b81ae27a3e7")
+	)
+	(fp_line
+		(start -1.27 3.048)
+		(end -1.27 12.9286)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ad2ecfa-4c91-41ab-b7f7-a2e38ba442ed")
+	)
+	(fp_line
+		(start -1.27 12.9286)
+		(end 8.89 12.9286)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "311e06ba-42cf-463d-8d36-f4740d97d52f")
+	)
+	(fp_line
+		(start 8.89 3.048)
+		(end -1.27 3.048)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27cd4d3a-e049-499b-991e-a22070358be9")
+	)
+	(fp_line
+		(start 8.89 12.9286)
+		(end 8.89 3.048)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "220575bf-c3e3-4919-95ff-1180bb6e2099")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.381 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1dca2f85-8b40-40af-9a71-b8ef8beee8d2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3.81 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a5532299-989a-4bf9-9740-f845c6914fff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "309e0633-d7fc-485f-969d-607ee0a992e9")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1f226574-88b4-44af-b7ab-71f7362abee3")
+	)
+	(pad "3" thru_hole circle
+		(at 5.08 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f562e6c-4db1-4205-9806-4c4c4960dc39")
+	)
+	(pad "4" thru_hole circle
+		(at 7.62 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f362318b-d638-4dbb-a42c-2e09ab5e3f20")
+	)
+	(embedded_fonts no)
+	(model "D:/Thomas User/Downloads/fan header 2.54 4pin v1.step"
+		(offset
+			(xyz 4 0 1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -28,6 +28,8 @@ Pull-up Resistors (for I2C, PWM, TACH)
 
 code for the stm32 is not available 
 
+for the simulation part open the project in pspice and run the simulation in transient mode
+
 SCHEMATIC IMAGE FOR REFERENCE
 <img width="1106" height="775" alt="image" src="https://github.com/user-attachments/assets/75b1ddba-4f87-46fa-8990-3886df2b14b3" />
 

@@ -35,6 +35,7 @@ PCB LAYOUT FOR REFERENCE
 <img width="1136" height="787" alt="image" src="https://github.com/user-attachments/assets/b094e3a5-9188-448c-972a-51a710110909" />
 
 3D VIEW FOR REFERENCE
+
 <img width="795" height="598" alt="image" src="https://github.com/user-attachments/assets/8b2576c4-60ee-4ffa-9fff-663e27173a95" />
 
 

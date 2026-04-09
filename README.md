@@ -38,4 +38,10 @@ PCB LAYOUT FOR REFERENCE
 
 <img width="795" height="598" alt="image" src="https://github.com/user-attachments/assets/8b2576c4-60ee-4ffa-9fff-663e27173a95" />
 
+SIMULATION FOR PSPICE
+
+
+<img width="1221" height="564" alt="image" src="https://github.com/user-attachments/assets/94beea05-35a2-476c-8ef1-e796f6aafb95" />
+<img width="1919" height="1031" alt="image (1)" src="https://github.com/user-attachments/assets/cebf9064-eb78-48b9-ba5e-83e0c4ecc884" />
+
 

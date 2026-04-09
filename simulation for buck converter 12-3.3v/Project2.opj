@@ -1,0 +1,120 @@
+(ExpressProject "Project2"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1-2024 S001-[03/30/26]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "F:\Pspice\tools\capture\library\pspice\analog.olb"
+        (DisplayName "F:\Pspice\tools\capture\library\pspice\analog.olb")
+        (Type "Schematic Library"))
+      (File "F:\Pspice\tools\capture\library\pspice\breakout.olb"
+        (DisplayName "F:\Pspice\tools\capture\library\pspice\breakout.olb")
+        (Type "Schematic Library"))
+      (File "F:\Pspice\tools\capture\library\pspice\source.olb"
+        (DisplayName "F:\Pspice\tools\capture\library\pspice\source.olb")
+        (Type "Schematic Library"))
+      (File "F:\Pspice\tools\capture\library\pspice\special.olb"
+        (DisplayName "F:\Pspice\tools\capture\library\pspice\special.olb")
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "project2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "TRUE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\project2-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\project2-pspicefiles\schematic1\bias.sim"
+        (DisplayName "SCHEMATIC1-bias")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\project2-pspicefiles\schematic1\testsimulation.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\project2-pspicefiles\schematic1\testsimulation.sim"
+        (DisplayName "SCHEMATIC1-testsimulation")
+        (Type "PSpice Profile"))))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (0
+      (LibraryName "F:\PSPICE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName "F:\PSPICE\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "F:\PSPICE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "F:\PSPICE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "F:\PSPICE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (TPS561208_TRANS
+      (FullPartName "TPS561208_TRANS.Normal")
+      (LibraryName "C:\CDS_SPB_HOME\CDSSETUP\PSPTILIBDIR\TPS561208_TRANS.OLB")
+      (DeviceIndex "0"))
+    (VSTIM
+      (FullPartName "VSTIM.Normal")
+      (LibraryName "..\..\LIBRARY\PSPICE\SOURCSTM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "LIBRARY\PSPICE")
+  (MPSSessionName "salvi")
+  (Folder "Logs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "D:\Thomas User\Downloads\Project2\project2.dsn")
+      (Path "Design Resources" "D:\Thomas User\Downloads\Project2\project2.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "D:\Thomas User\Downloads\Project2\project2.dsn"
+         "Design Cache")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Simulation Profiles")
+      (Select "PSpice Resources" "Stimulus Files"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 531"))
+      (Tab 0))
+    (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 884 24 549"))
+      (Path
+         "D:\Thomas User\Downloads\Project2\project2-pspicefiles\schematic1\schematic1.net")
+      (Scroll "0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 884 24 549")
+        (Scroll "-30 80")
+        (Zoom "81")
+        (Occurrence "/"))
+      (Path "D:\THOMAS USER\DOWNLOADS\PROJECT2\PROJECT2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
